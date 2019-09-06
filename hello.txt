@@ -4,3 +4,10 @@ print("Hello, Wolrd!");
 print("Tell What the Fox say?");
 print("하티하티하티호!");
 print("하티호");
+
+//for command line git 
+//어차피 주석이야
+print("Hello, Wolrd!");
+print("Tell What the Fox say?");
+print("하티하티하티호!");
+print("하티호");
